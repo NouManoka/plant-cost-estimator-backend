@@ -1,0 +1,8 @@
+ECHO is on.
+
+node_modules/
+.env
+npm-debug.log*
+dist/
+build/
+
